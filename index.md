@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home Page
+title: Sydney Schiffner Portfolio
 ---
 
 # Welcome to My Site!
