@@ -16,6 +16,32 @@ Include pictures and descriptions of projects
 3. Yield of winter barley across US using state data from USDA-NASS Quickstats data
 4. Satellite imagery composite of snow cover on field reflecting barley survival?
 
+<div class="card-grid">
+
+  <article class="card">
+    <img src="https://picsum.photos/400/250?random=1" alt="Mountain View" class="card-image">
+    <div class="card-content">
+      <h2 class="card-title">Alpine Exploration</h2>
+      <p class="card-description">
+        Discover high-altitude hiking trails, crisp mountain air, and breathtaking summit views.
+      </p>
+      <a href="#" class="card-button">Learn More</a>
+    </div>
+  </article>
+
+  <article class="card">
+    <img src="https://picsum.photos/400/250?random=2" alt="Ocean Sunset" class="card-image">
+    <div class="card-content">
+      <h2 class="card-title">Coastal Retreat</h2>
+      <p class="card-description">
+        Relax by the ocean with quiet beaches, gentle waves, and vibrant sunset vistas.
+      </p>
+      <a href="#" class="card-button">Learn More</a>
+    </div>
+  </article>
+
+</div>
+
 # Current Research Projects
 Include pictures and descriptions of projects
 1. Breeding perennial oilseed Silphium integrifolium (Silflower) for use as forage and/or oilseed - picture of silflower
