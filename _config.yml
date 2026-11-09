@@ -1,6 +1,6 @@
 title: My New Website
 #remote_theme: julianolf/jekyll-theme-8bit
-theme: jekyll-theme-twenty
-#plugins: 
-#  - jekyll-remote-theme
+remote_theme: jekyll-theme-twenty
+plugins: 
+  - jekyll-remote-theme
 #theme_mode: dark
