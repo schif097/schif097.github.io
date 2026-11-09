@@ -1,1 +1,4 @@
-
+title: My New Website
+remote_theme: julianolf/jekyll-theme-8bit
+plugins: 
+  - jekyll-remote-theme
