@@ -15,7 +15,7 @@ Include pictures and descriptions of projects
 2. Locations of WMBT sites across the US with survivability
 3. Yield of winter barley across US using state data from USDA-NASS Quickstats data
 4. Satellite imagery composite of snow cover on field reflecting barley survival?
-
+<link rel="stylesheet" href="style.css">
 <div class="card-grid">
 
   <article class="card">
