@@ -3,9 +3,6 @@ layout: default
 title: Sydney Schiffner Portfolio
 ---
 
-# Welcome to My Site!
-This is my brand new Jekyll website hosted on GitHub Pages.
-
 # About Me - Include professional picture
 Hi! My name is Sydney Schiffner and I'm currently working as a researcher in the Smith Lab at the University of Minnesota managing a breeding program for a perennial oilseed called silflower (*Silphium integrifolium* Michx). In my free time I'm also pursuing a PhD in Applied Plant Sciences on the Agronomy/Agroecology track, where we're attempting to determine optimal winter survival conditions for the winter annual plant, winter barley (*Hordeum vulgare*). To learn more skills in analysis and data science I'm also in the professional Master's of Geographic Information Sciences program (MGIS). While being a part of the MGIS program I've been able to perform mapping projects examining agricultural and weather data pertaining to the survivability of the system I'm studying for my PhD. Please see my work below, and if you have any inquiries, feel free to contact me (schif097@umn.edu).
 
