@@ -61,7 +61,7 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
 
 
   <article class="card">
-    <img src="images/FlowchartForArialImageryAnalysis.png" alt="Aerial Imagery Analysis" class="card-image">
+    <img src="images/FlowchartForArialImageryAnalysis.jpg" alt="Aerial Imagery Analysis" class="card-image">
     <div class="card-content">
       <h2 class="card-title">Calculating NDVI values for Spring and Fall and Snow Cover to Examine Trends in Winter Survival</h2>
       <p class="card-description">
@@ -71,7 +71,7 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
   </article>
   
    <article class="card">
-    <img src="ToolboxForFindingWeatherStations.jpg" alt="Weather Station Toolbox" class="card-image">
+    <img src="images/ToolboxForFindingWeatherStations.jpg" alt="Weather Station Toolbox" class="card-image">
     <div class="card-content">
       <h2 class="card-title">NOAA Weather Station Toolbox</h2>
       <p class="card-description">
