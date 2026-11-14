@@ -42,11 +42,11 @@ Include pictures and descriptions of projects
   </article>
 
   <article class="card">
-    <img src="https://picsum.photos/400/250?random=2" alt="WMBT Survival Overall" class="card-image">
+    <img src="images/WMBTYieldDiffMap.png" alt="WMBT Yield Diff Avg" class="card-image">
     <div class="card-content">
-      <h2 class="card-title">Winter Malting Barley Trial Survival</h2>
+      <h2 class="card-title">Winter Barley versus Spring Barley Yield Difference</h2>
       <p class="card-description">
-        Using RStudio, ArcGIS Pro and data obtained from T3 Database from WMBT trial, survival data was averaged across years and multiple sites in the United States to examine the distribution of survival trends.
+        Using RStudio, ArcGIS Pro, data obtained from T3 Database from WMBT trial, and data obtained from the USDA-NASS API for barley yields across US. Differences between winter barley and spring barley yields were calculated and then plotted on a map.  
       </p>
       <a href="#" class="card-button">Learn More</a>
     </div>
