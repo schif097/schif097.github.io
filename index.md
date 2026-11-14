@@ -4,10 +4,11 @@ title: Sydney Schiffner Portfolio
 ---
 
 # About Me
-<div>
+
 <img align = "right" src="images/ProfPicFlowers.jpg" style="width: 50%; height: 50%;">
 Wecome to my website! My name is Sydney Schiffner and I'm currently working as a researcher in the Smith Lab at the University of Minnesota managing a breeding program for a perennial oilseed called silflower (*Silphium integrifolium* Michx). In my free time I'm also pursuing a PhD in Applied Plant Sciences on the Agronomy/Agroecology track, where we're attempting to determine optimal winter survival conditions for the winter annual plant, winter barley (*Hordeum vulgare*). To learn more skills in analysis and data science I'm also in the professional Master's of Geographic Information Sciences program (MGIS). While being a part of the MGIS program I've been able to perform mapping projects examining agricultural and weather data pertaining to the survivability of the system I'm studying for my PhD. Please see my work below, and if you have any inquiries, feel free to contact me ([schif097@umn.edu](mailto:schif097@umn.edu)).
-</div>
+---
+
 # Past GIS Projects
 Include pictures and descriptions of projects
 1. Locations of WMBT sites across the US with survivability
@@ -48,22 +49,22 @@ Include pictures and descriptions of projects
       <p class="card-description">
         Using RStudio, ArcGIS Pro, data obtained from T3 Database from WMBT trial, and data obtained from the USDA-NASS API for barley yields across US. Differences between winter barley and spring barley yields were calculated and then plotted on a map.  
       </p>
-      <a href="#" class="card-button">Learn More</a>
+      <a href="https://smithlab.cfans.umn.edu/barley/winter-malting-barley-trial" class="card-button">Learn More</a>
     </div>
   </article>
   
    <article class="card">
-    <img src="https://picsum.photos/400/250?random=2" alt="WMBT Survival Overall" class="card-image">
+    <img src="images/BarleyYldDiffIndYearsThru2025.gif" alt="WMBT Yield Diff Ind" class="card-image">
     <div class="card-content">
-      <h2 class="card-title">Winter Malting Barley Trial Survival</h2>
+      <h2 class="card-title">Winter Barley versus Spring Barley Yield Difference - Individual Years</h2>
       <p class="card-description">
-        Using RStudio, ArcGIS Pro and data obtained from T3 Database from WMBT trial, survival data was averaged across years and multiple sites in the United States to examine the distribution of survival trends.
+        Using RStudio, ArcGIS Pro and data obtained from T3 Database from WMBT trial, yield differences were calculated (winter barley - spring barley) across individual years and multiple sites in the United States to see yield differences from year to year.
       </p>
-      <a href="#" class="card-button">Learn More</a>
+      <a href="https://smithlab.cfans.umn.edu/barley/winter-malting-barley-trial" class="card-button">Learn More</a>
     </div>
   </article>
 </div>
-
+---
 # Current Research Projects
 Include pictures and descriptions of projects
 1. Breeding perennial oilseed Silphium integrifolium (Silflower) for use as forage and/or oilseed - picture of silflower
@@ -95,10 +96,13 @@ Include pictures and descriptions of projects
   </article>
 
 </div>
-
+---
 # Resume
 
+---
 # Relevant Coursework
+
+---
 
 # Photos in the field!
 
