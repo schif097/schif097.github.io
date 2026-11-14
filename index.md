@@ -90,7 +90,7 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
   <article class="card">
     <img src="images/SilphiumFlowerPictureButterfly.jpg" alt="Silphium Picture" class="card-image">
     <div class="card-content">
-      <h2 class="card-title">Breeding Perennial Oilseed *Silphium integrifolium* Michx (Silflower) for Use in Agricultural Systems</h2>
+      <h2 class="card-title">Breeding Perennial Oilseed Silflower for Use in Agricultural Systems</h2>
       <p class="card-description">
         As a technician in the Smith Lab I manage the research plots and breeding program of the potential perennial oilseed Silflower. It is currently being researched as a potential oilseed and/or forage crop. Our goals are to domesticate the plant to incorporate it into agricultural systems.
       </p>
@@ -112,7 +112,7 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
   <article class="card">
     <img src="images/SoilSensorPicture1.jpg" alt="Soil Sensor Pic" class="card-image">
     <div class="card-content">
-      <h2 class="card-title">Measuring Winter Soil Temperatures in Winter Barley Studies</h2>
+      <h2 class="card-title">Measuring Winter Soil Temperatures in Winter Barley UMN Studies</h2>
       <p class="card-description">
         Using soil sensors at various UMN winter barley trials across Minnesota, we plan to quantify actual field conditions to determine where and under which conditions winter barley survives. Using this data we hope to correlate it to local weather station data and approximate soil conditions to better predict potential winter barley survivability across the state.
       </p>
@@ -129,11 +129,38 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
     </div>
   </article>
 </div>
----
-# Resume
 
 ---
+
+# Software Skills
+* R and RStudio statistical software
+* ArcGIS Pro
+* ArcGIS Online
+* Python
+* ImageJ
+* MySQL for database systems
+* Microsoft Suite (Word, Excel, Powerpoint)
+* Google Suite (Docs, Sheets, Slides)
+
+---
+
 # Relevant Coursework
+* GIS
+    * GIS for Natural Resource Management
+    * Remote Sensing and Geospatial Analysis of Natural Resources and Environment
+    * Intermediate and Advanced Spatial Data Science
+    * Spatiotemporal Modelling and Simulation
+    * GIS Project Management and Professional Development
+* Statistics
+    * Data Analysis
+    * Experimental Design
+    * Nonparametric Methods
+    * Applied Biostatistics
+    * Applied Regression Analysis
+* Computer Science
+    * Introduction to Python
+    * From GPS, Google Maps, and Uber to Spatial Data Science
+    * Andrew Ng's Coursera 3-part course - Machine Learning Fundamentals
 
 ---
 
