@@ -5,7 +5,7 @@ title: Sydney Schiffner Portfolio
 
 # About Me
 
-<img align = "right" src="images/ProfPicFlowers.jpg" style=" height: 30%;">
+<img align = "right" src="images/ProfPicFlowers.jpg" style=" width: 30%;">
 Wecome to my website! My name is Sydney Schiffner and I'm currently working as a researcher in the Smith Lab at the University of Minnesota managing a breeding program for a perennial oilseed called silflower (*Silphium integrifolium* Michx). In my free time I'm also pursuing a PhD in Applied Plant Sciences on the Agronomy/Agroecology track, where we're attempting to determine optimal winter survival conditions for the winter annual plant, winter barley (*Hordeum vulgare*). To learn more skills in analysis and data science I'm also in the professional Master's of Geographic Information Sciences program (MGIS). While being a part of the MGIS program I've been able to perform mapping projects examining agricultural and weather data pertaining to the survivability of the system I'm studying for my PhD. Please see my work below, and if you have any inquiries, feel free to contact me ([schif097@umn.edu](mailto:schif097@umn.edu)).
 
 
@@ -65,6 +65,32 @@ Include pictures and descriptions of projects
       <a href="https://smithlab.cfans.umn.edu/barley/winter-malting-barley-trial" class="card-button">Learn More</a>
     </div>
   </article>
+
+
+  <article class="card">
+    <img src="images/FlowchartForArialImageryAnalysis.png" alt="Aerial Imagery Analysis" class="card-image">
+    <div class="card-content">
+      <h2 class="card-title">Calculating NDVI values for Spring and Fall and Snow Cover to Examine Trends in Winter Survival</h2>
+      <p class="card-description">
+        Using Python, ArcGIS Pro, and satellite imagery obtained from Google and PlanetLabs. First examined NDVI values for fall establishment and spring regrowth. Then used compilation of imagery taken during the winter to map snow cover on field over time to visualize snow cover trends.  
+      </p>
+      <a href="https://smithlab.cfans.umn.edu/barley/winter-malting-barley-trial" class="card-button">Learn More</a>
+    </div>
+  </article>
+  
+   <article class="card">
+    <img src="ToolboxForFindingWeatherStations.jpg" alt="Weather Station Toolbox" class="card-image">
+    <div class="card-content">
+      <h2 class="card-title">NOAA Weather Station Toolbox</h2>
+      <p class="card-description">
+        Using Python, and NOAA weather station API, a toolbox was created where users can input a target location's latitude and longitude, and years of interest. Toolbox will output shapefile summarizing available NOAA data, how distant it is from the initial target point and a csv file with the points information.
+      </p>
+      <a href="https://smithlab.cfans.umn.edu/barley/winter-malting-barley-trial" class="card-button">Learn More</a>
+    </div>
+  </article>
+
+
+
 </div>
 ---
 # Current Research Projects
