@@ -114,24 +114,22 @@ Include pictures and descriptions of projects
   </article>
 
   <article class="card">
-    <img src="https://picsum.photos/400/250?random=1" alt="Mountain View" class="card-image">
+    <img src="images/SoilSensorPicture1.jpg" alt="Soil Sensor Pic" class="card-image">
     <div class="card-content">
-      <h2 class="card-title">Alpine Exploration</h2>
+      <h2 class="card-title">Measuring Winter Soil Temperatures in Winter Barley Studies</h2>
       <p class="card-description">
-        Discover high-altitude hiking trails, crisp mountain air, and breathtaking summit views.
+        Using soil sensors at various UMN winter barley trials across Minnesota, we plan to quantify actual field conditions to determine where and under which conditions winter barley survives. Using this data we hope to correlate it to local weather station data and approximate soil conditions to better predict potential winter barley survivability across the state.
       </p>
-      <a href="#" class="card-button">Learn More</a>
     </div>
   </article>
 
   <article class="card">
-    <img src="https://picsum.photos/400/250?random=2" alt="Ocean Sunset" class="card-image">
+    <img src="images/BarleyField.JPG" alt="UMN Barley Field" class="card-image">
     <div class="card-content">
-      <h2 class="card-title">Coastal Retreat</h2>
+      <h2 class="card-title">Using DSSAT Crop Modeling System to Predict Winter Barley Traits</h2>
       <p class="card-description">
-        Relax by the ocean with quiet beaches, gentle waves, and vibrant sunset vistas.
+        Using existing winter barley data collected by the UMN breeding program, we plan to test the DSSAT crop modeling system to see its effectiveness in predicting winter barley flowering dates, heights and grain yield.
       </p>
-      <a href="#" class="card-button">Learn More</a>
     </div>
   </article>
 </div>
