@@ -38,7 +38,7 @@ body {
 }
 
 .card-image {
-  width: 200px;
+  width: 400px;
   height: 100%;
   object-fit: cover;
 }
