@@ -108,6 +108,8 @@ Include pictures and descriptions of projects
 
 # Photos in the field!
 
+---
+
 # Shameless Self Promotion
 - Include LinkedIn, links to profiles on MGIS site and APG site, smith lab site
 
