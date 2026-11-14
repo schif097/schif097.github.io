@@ -84,11 +84,7 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
 </div>
 ---
 # Current Research Projects
-Include pictures and descriptions of projects
-1. Breeding perennial oilseed Silphium integrifolium (Silflower) for use as forage and/or oilseed - picture of silflower
-2. Examining the interaction effect of age and environment on silflower growth and development - graph of change over time
-3. Determining winter survival conditions for winter barley - picture of soil sensors
-4. Testing existing crop models (DSSAT) to evaluate prediction power for winter barley height, flowering date and resulting grain yield - picture of winter barley
+
 <div class="card-grid">
 
   <article class="card">
@@ -141,10 +137,13 @@ Include pictures and descriptions of projects
 
 ---
 
+# Shameless Self Promotion
+- Include LinkedIn, links to profiles on MGIS site and APG site, smith lab site
+
+---
 # Photos in the field!
 
 ---
 
-# Shameless Self Promotion
-- Include LinkedIn, links to profiles on MGIS site and APG site, smith lab site
+
 
