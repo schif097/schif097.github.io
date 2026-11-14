@@ -12,13 +12,6 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
 ---
 
 # Past GIS Projects
-Include pictures and descriptions of projects
-1. Locations of WMBT sites across the US with survivability
-2. Individual years of WMBT Survival (gif with composite map)
-3. Yield difference in winter barley versus spring barley across US using state data from USDA-NASS Quickstats data
-4. Individual years of winter barley versus spring barley yields across US
-5. Satellite imagery composite of snow cover on field reflecting barley survival?
-6. Toolbox to search for weather stations using NOAA information (screenshot of toolbox)
 <link rel="stylesheet" href="style.css">
 <div class="card-grid">
 
@@ -74,7 +67,6 @@ Include pictures and descriptions of projects
       <p class="card-description">
         Using Python, ArcGIS Pro, and satellite imagery obtained from Google and PlanetLabs. First examined NDVI values for fall establishment and spring regrowth. Then used compilation of imagery taken during the winter to map snow cover on field over time to visualize snow cover trends.  
       </p>
-      <a href="https://smithlab.cfans.umn.edu/barley/winter-malting-barley-trial" class="card-button">Learn More</a>
     </div>
   </article>
   
@@ -85,11 +77,9 @@ Include pictures and descriptions of projects
       <p class="card-description">
         Using Python, and NOAA weather station API, a toolbox was created where users can input a target location's latitude and longitude, and years of interest. Toolbox will output shapefile summarizing available NOAA data, how distant it is from the initial target point and a csv file with the points information.
       </p>
-      <a href="https://smithlab.cfans.umn.edu/barley/winter-malting-barley-trial" class="card-button">Learn More</a>
+      <a href="https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily" class="card-button">Learn More</a>
     </div>
   </article>
-
-
 
 </div>
 ---
