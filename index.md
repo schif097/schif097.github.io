@@ -21,22 +21,22 @@ Include pictures and descriptions of projects
   <article class="card">
     <img src="images/WMBTSurvivalMap.png" alt="WMBT Barley Survival Average" class="card-image">
     <div class="card-content">
-      <h2 class="card-title">USDA NASS Barley Yields</h2>
+      <h2 class="card-title">WMBT Barley Survival Averages</h2>
       <p class="card-description">
         Using RStudio and ArcGIS Pro, data was averaged for Winter Malting Barley Trial (WMBT) survival from 2011 through 2024 and averages were calculated. These averages were then plotted at the field station locations along with the number of site-years recorded for the trial. 
       </p>
-      <a href="#" class="card-button">Learn More</a>
+      <a href="https://smithlab.cfans.umn.edu/barley/winter-malting-barley-trial" class="card-button">Learn More</a>
     </div>
   </article>
 
   <article class="card">
-    <img src="https://picsum.photos/400/250?random=2" alt="WMBT Survival Overall" class="card-image">
+    <img src="images/WMBTSurvivalIndYearsThru2025.gif" alt="WMBT Survival Ind Years" class="card-image">
     <div class="card-content">
-      <h2 class="card-title">Winter Malting Barley Trial Survival</h2>
+      <h2 class="card-title">Winter Malting Barley Trial Survival 2011 through 2025</h2>
       <p class="card-description">
-        Using RStudio, ArcGIS Pro and data obtained from T3 Database from WMBT trial, survival data was averaged across years and multiple sites in the United States to examine the distribution of survival trends.
+        Using RStudio, ArcGIS Pro and data obtained from T3 Database for the WMBT trial, multiple years of survival data were made into individual maps, and then made into a gif file that cycles through each individual year of survival.
       </p>
-      <a href="#" class="card-button">Learn More</a>
+      <a href="https://smithlab.cfans.umn.edu/barley/winter-malting-barley-trial" class="card-button">Learn More</a>
     </div>
   </article>
 
