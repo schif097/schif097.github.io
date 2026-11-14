@@ -19,7 +19,7 @@ Include pictures and descriptions of projects
 <div class="card-grid">
 
   <article class="card">
-    <img src="https://picsum.photos/400/250?random=1" alt="WMBT Barley Survival Average" class="card-image">
+    <img src="images/WMBTSurvivalMap.png" alt="WMBT Barley Survival Average" class="card-image">
     <div class="card-content">
       <h2 class="card-title">USDA NASS Barley Yields</h2>
       <p class="card-description">
