@@ -92,6 +92,28 @@ Include pictures and descriptions of projects
 <div class="card-grid">
 
   <article class="card">
+    <img src="images/SilphiumFlowerPictureButterfly.jpg" alt="Silphium Picture" class="card-image">
+    <div class="card-content">
+      <h2 class="card-title">Breeding Perennial Oilseed *Silphium integrifolium* Michx (Silflower) for Use in Agricultural Systems</h2>
+      <p class="card-description">
+        As a technician in the Smith Lab I manage the research plots and breeding program of the potential perennial oilseed Silflower. It is currently being researched as a potential oilseed and/or forage crop. Our goals are to domesticate the plant to incorporate it into agricultural systems.
+      </p>
+      <a href="https://smithlab.cfans.umn.edu/silflower-overview" class="card-button">Learn More</a>
+    </div>
+  </article>
+
+  <article class="card">
+    <img src="https://picsum.photos/400/250?random=2" alt="Ocean Sunset" class="card-image">
+    <div class="card-content">
+      <h2 class="card-title">Coastal Retreat</h2>
+      <p class="card-description">
+        Relax by the ocean with quiet beaches, gentle waves, and vibrant sunset vistas.
+      </p>
+      <a href="#" class="card-button">Learn More</a>
+    </div>
+  </article>
+
+  <article class="card">
     <img src="https://picsum.photos/400/250?random=1" alt="Mountain View" class="card-image">
     <div class="card-content">
       <h2 class="card-title">Alpine Exploration</h2>
@@ -112,7 +134,6 @@ Include pictures and descriptions of projects
       <a href="#" class="card-button">Learn More</a>
     </div>
   </article>
-
 </div>
 ---
 # Resume
