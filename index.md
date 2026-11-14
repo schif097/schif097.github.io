@@ -103,13 +103,13 @@ Include pictures and descriptions of projects
   </article>
 
   <article class="card">
-    <img src="https://picsum.photos/400/250?random=2" alt="Ocean Sunset" class="card-image">
+    <img src="images/AgesYieldReg.jpg" alt="Change In Yield Responses Over Time" class="card-image">
     <div class="card-content">
-      <h2 class="card-title">Coastal Retreat</h2>
+      <h2 class="card-title">Change In Yield Responses Over Time with Age</h2>
       <p class="card-description">
-        Relax by the ocean with quiet beaches, gentle waves, and vibrant sunset vistas.
+        Analyzing how yield and physiological traits change over time as silflower plants age. We're also seeing how different families respond to aging over time.
       </p>
-      <a href="#" class="card-button">Learn More</a>
+      <a href="https://smithlab.cfans.umn.edu/silflower-overview" class="card-button">Learn More</a>
     </div>
   </article>
 
