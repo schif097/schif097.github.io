@@ -181,11 +181,22 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
 
 # Shameless Self Promotion
 
-<div class="profile-buttons">
-  <a href="https://www.linkedin.com/in/your-profile" class="btn-link" target="_blank" rel="noopener">LinkedIn</a>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID" class="btn-link" target="_blank" rel="noopener">Google Scholar</a>
-  <a href="https://github.com/your-username" class="btn-link" target="_blank" rel="noopener">GitHub</a>
-  <a href="mailto:you@example.com" class="btn-link">Email</a>
+<div class="social-icon-buttons">
+  <a href="https://www.linkedin.com/in/your-profile" class="icon-btn" target="_blank" rel="noopener" aria-label="LinkedIn" title="LinkedIn">
+    <i class="fa-brands fa-linkedin-in"></i>
+  </a>
+  <a href="https://scholar.google.com/citations?user=YOUR_ID" class="icon-btn" target="_blank" rel="noopener" aria-label="Google Scholar" title="Google Scholar">
+    <i class="ai ai-google-scholar"></i>
+  </a>
+  <a href="https://github.com/your-username" class="icon-btn" target="_blank" rel="noopener" aria-label="GitHub" title="GitHub">
+    <i class="fa-brands fa-github"></i>
+  </a>
+  <a href="https://orcid.org/0000-0000-0000-0000" class="icon-btn" target="_blank" rel="noopener" aria-label="ORCID" title="ORCID">
+    <i class="ai ai-orcid"></i>
+  </a>
+  <a href="mailto:you@example.com" class="icon-btn" aria-label="Email" title="Email">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
 </div>
 
 ---
