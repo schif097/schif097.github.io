@@ -186,7 +186,7 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
     <img src="images/LI-Logo.png" alt="LinkedIn">
   </a>
   <a href="https://scholar.google.com/citations?user=DLiJzXcAAAAJ&hl=en" class="logo-img-link" target="_blank" rel="noopener" title="Google Scholar">
-    <img src="images/GoogleScholarLogo.png" alt="Google Scholar">
+    <img src="images/GoogleScholarLogo2.png" alt="Google Scholar">
   </a>
   <a href="https://cla.umn.edu/about/directory/profile/schif097" class="logo-img-link" target="_blank" rel="noopener" title="MGIS Website Profile">
     <img src="images/MGISProgramLog.png" alt="MGIS Program">
@@ -198,7 +198,7 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
 
 ---
 # Photos in the field!
-
+[![Pollinator Pics](images/PollinatorPics.jpg)](https://smithlab.cfans.umn.edu/silflower-pollinator-habitat)
 ---
 
 
