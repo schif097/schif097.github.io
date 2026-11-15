@@ -105,7 +105,7 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
       <p class="card-description">
         Analyzing how yield and physiological traits change over time as silflower plants age. We're also seeing how different families respond to aging over time.
       </p>
-      <a href="https://smithlab.cfans.umn.edu/silflower-overview" class="card-button">Learn More</a>
+      <a href="https://youtu.be/JavZId1mO5k?si=lR2r42d92uJl27M1&t=3881" class="card-button">Learn More</a>
     </div>
   </article>
 
@@ -116,6 +116,7 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
       <p class="card-description">
         Using soil sensors at various UMN winter barley trials across Minnesota, we plan to quantify actual field conditions to determine where and under which conditions winter barley survives. Using this data we hope to correlate it to local weather station data and approximate soil conditions to better predict potential winter barley survivability across the state.
       </p>
+      <a href="https://smithlab.cfans.umn.edu/silflower-overview" class="card-button">Learn More</a>
     </div>
   </article>
 
@@ -133,34 +134,34 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
 ---
 
 # Software Skills
-* R and RStudio statistical software
-* ArcGIS Pro
-* ArcGIS Online
-* Python
-* ImageJ
-* MySQL for database systems
-* Microsoft Suite (Word, Excel, Powerpoint)
-* Google Suite (Docs, Sheets, Slides)
+- R and RStudio statistical software
+- ArcGIS Pro
+- ArcGIS Online
+- Python
+- ImageJ
+- MySQL for database systems
+- Microsoft Suite (Word, Excel, Powerpoint)
+- Google Suite (Docs, Sheets, Slides)
 
 ---
 
 # Relevant Coursework
-* GIS
-  * GIS for Natural Resource Management
-  * Remote Sensing and Geospatial Analysis of Natural Resources and Environment
-  * Intermediate and Advanced Spatial Data Science
-  * Spatiotemporal Modelling and Simulation
-  * GIS Project Management and Professional Development
-* Statistics
-  * Data Analysis
-  * Experimental Design
-  * Nonparametric Methods
-  * Applied Biostatistics
-  * Applied Regression Analysis
-* Computer Science
-  * Introduction to Python
-  * From GPS, Google Maps, and Uber to Spatial Data Science
-  * Andrew Ng's Coursera 3-part course - Machine Learning Fundamentals
+- GIS
+  - GIS for Natural Resource Management
+  - Remote Sensing and Geospatial Analysis of Natural Resources and Environment
+  - Intermediate and Advanced Spatial Data Science
+  - Spatiotemporal Modelling and Simulation
+  - GIS Project Management and Professional Development
+- Statistics
+  - Data Analysis
+  - Experimental Design
+  - Nonparametric Methods
+  - Applied Biostatistics
+  - Applied Regression Analysis
+- Computer Science
+  - Introduction to Python
+  - From GPS, Google Maps, and Uber to Spatial Data Science
+  - Andrew Ng's Coursera 3-part course - Machine Learning Fundamentals
 
 ---
 
