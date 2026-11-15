@@ -117,3 +117,15 @@ body {
   text-decoration: none;
   transform: translateY(-2px);
 }
+
+.main-content .logo-img-link img {
+  height: 32px;
+  width: auto;
+  border: none;
+  box-shadow: none;
+  transition: transform 0.2s ease;
+}
+
+.main-content .logo-img-link:hover img {
+  transform: scale(1.12);
+}
