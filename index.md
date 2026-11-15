@@ -182,12 +182,18 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
 # Shameless Self Promotion
 
 <div class="social-logos">
-  <a href="https://www.linkedin.com/in/your-profile" class="logo-img-link" target="_blank" rel="noopener" title="LinkedIn">
-    <img src="/assets/images/linkedin-logo.svg" alt="LinkedIn">
+  <a href="www.linkedin.com/in/sydney-schiffner-2846b060" class="logo-img-link" target="_blank" rel="noopener" title="LinkedIn">
+    <img src="images/LI-Logo.png" alt="LinkedIn">
   </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID" class="logo-img-link" target="_blank" rel="noopener" title="Google Scholar">
-    <img src="/assets/images/scholar-logo.svg" alt="Google Scholar">
+  <a href="https://scholar.google.com/citations?user=DLiJzXcAAAAJ&hl=en" class="logo-img-link" target="_blank" rel="noopener" title="Google Scholar">
+    <img src="images/GoogleScholarLogo.png" alt="Google Scholar">
   </a>
+  <a href="https://cla.umn.edu/about/directory/profile/schif097" class="logo-img-link" target="_blank" rel="noopener" title="MGIS Website Profile">
+    <img src="images/MGISProgramLog.png" alt="MGIS Program">
+  </a>
+  <a href="https://smithlab.cfans.umn.edu/sydney-schiffner" class="logo-img-link" target="_blank" rel="noopener" title="Smith Lab Website Profile">
+    <img src="images/SmithLabLogo.png" alt="Smith Lab Profile">
+    </a>
 </div>
 
 ---
