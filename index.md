@@ -18,7 +18,7 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
   <article class="card">
     <img src="images/WMBTSurvivalMap.png" alt="WMBT Barley Survival Average" class="card-image">
     <div class="card-content">
-      <h2 class="card-title">WMBT Barley Survival Averages</h2>
+      <h2 class="card-title">Winter Malting Barley Trial Survival Averages</h2>
       <p class="card-description">
         Using RStudio, ArcGIS Pro, Python, and data obtained from the T3 Barley database, data was averaged for Winter Malting Barley Trial (WMBT) survival from 2011 through 2024 and averages were calculated. These averages were then plotted at the field station locations along with the number of site-years recorded for the trial. 
       </p>
@@ -29,7 +29,7 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
   <article class="card">
     <img src="images/WMBTSurvivalIndYearsThru2025.gif" alt="WMBT Survival Ind Years" class="card-image">
     <div class="card-content">
-      <h2 class="card-title">Winter Malting Barley Trial Survival 2011 through 2025</h2>
+      <h2 class="card-title">Winter Malting Barley Trial Survival - Individual Years</h2>
       <p class="card-description">
         Using RStudio, ArcGIS Pro, Python, and data obtained from T3 Database for the WMBT trial, multiple years of survival data were made into individual maps, and then made into a gif file that cycles through each individual year of survival to examine trends.
       </p>
