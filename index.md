@@ -146,26 +146,26 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
 
 # Relevant Coursework
 * GIS
-    * GIS for Natural Resource Management
-    * Remote Sensing and Geospatial Analysis of Natural Resources and Environment
-    * Intermediate and Advanced Spatial Data Science
-    * Spatiotemporal Modelling and Simulation
-    * GIS Project Management and Professional Development
+  * GIS for Natural Resource Management
+  * Remote Sensing and Geospatial Analysis of Natural Resources and Environment
+  * Intermediate and Advanced Spatial Data Science
+  * Spatiotemporal Modelling and Simulation
+  * GIS Project Management and Professional Development
 * Statistics
-    * Data Analysis
-    * Experimental Design
-    * Nonparametric Methods
-    * Applied Biostatistics
-    * Applied Regression Analysis
+  * Data Analysis
+  * Experimental Design
+  * Nonparametric Methods
+  * Applied Biostatistics
+  * Applied Regression Analysis
 * Computer Science
-    * Introduction to Python
-    * From GPS, Google Maps, and Uber to Spatial Data Science
-    * Andrew Ng's Coursera 3-part course - Machine Learning Fundamentals
+  * Introduction to Python
+  * From GPS, Google Maps, and Uber to Spatial Data Science
+  * Andrew Ng's Coursera 3-part course - Machine Learning Fundamentals
 
 ---
 
 # Shameless Self Promotion
-- Include LinkedIn, links to profiles on MGIS site and APG site, smith lab site
+- Include LinkedIn, Google Scholar profile links to profiles on MGIS site and APG site, smith lab site
 
 ---
 # Photos in the field!
