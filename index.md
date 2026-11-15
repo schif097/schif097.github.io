@@ -147,21 +147,35 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
 
 # Relevant Coursework
 - GIS
-  - GIS for Natural Resource Management
-  - Remote Sensing and Geospatial Analysis of Natural Resources and Environment
-  - Intermediate and Advanced Spatial Data Science
-  - Spatiotemporal Modelling and Simulation
-  - GIS Project Management and Professional Development
+    - GIS for Natural Resource Management
+    - Remote Sensing and Geospatial Analysis of Natural Resources and Environment
+    - Intermediate and Advanced Spatial Data Science
+    - Spatiotemporal Modelling and Simulation
+    - GIS Project Management and Professional Development
 - Statistics
-  - Data Analysis
-  - Experimental Design
-  - Nonparametric Methods
-  - Applied Biostatistics
-  - Applied Regression Analysis
+    - Data Analysis
+    - Experimental Design
+    - Nonparametric Methods
+    - Applied Biostatistics
+    - Applied Regression Analysis
 - Computer Science
-  - Introduction to Python
-  - From GPS, Google Maps, and Uber to Spatial Data Science
-  - Andrew Ng's Coursera 3-part course - Machine Learning Fundamentals
+    - Introduction to Python
+    - From GPS, Google Maps, and Uber to Spatial Data Science
+    - Andrew Ng's Coursera 3-part course - Machine Learning Fundamentals
+
+---
+
+# Service
+- 2026
+    - Department of Agronomy and Plant Genetics
+        - Inclusion and Belonging Committee Member
+        - Departmental Operational Networking Team Member
+- 2021 - 2026
+    - Silflower Annual Meeting Facilitator
+- 2016 - 2018
+    - Committee Member for Production Agrculture Symposium at UMN  
+- 2017
+    - Co-chair for Production Agriculture Symposium at UMN
 
 ---
 
