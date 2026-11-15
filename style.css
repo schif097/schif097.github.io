@@ -79,3 +79,9 @@ body {
 .card-button:hover {
   background-color: #1d4ed8;
 }
+
+/* Restore indentation for nested bullet lists */
+ul ul, ol ul {
+  padding-left: 1.5rem; /* Adjust to 20px or 2rem depending on how deep you want the indent */
+  margin-left: 0;
+}
