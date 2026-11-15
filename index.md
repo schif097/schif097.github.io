@@ -198,7 +198,10 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
 
 ---
 # Photos in the field!
-[![Pollinator Pics](images/PollinatorPics.jpg)](https://smithlab.cfans.umn.edu/silflower-pollinator-habitat)
+
+[![Pollinator Pics](images/FieldPics/SilflowerPollinatorLink.jpg)](https://smithlab.cfans.umn.edu/silflower-pollinator-habitat)
+
+
 ---
 
 
