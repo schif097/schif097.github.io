@@ -180,7 +180,13 @@ Wecome to my website! My name is Sydney Schiffner and I'm currently working as a
 ---
 
 # Shameless Self Promotion
-- Include LinkedIn, Google Scholar profile links to profiles on MGIS site and APG site, smith lab site
+
+<div class="profile-buttons">
+  <a href="https://www.linkedin.com/in/your-profile" class="btn-link" target="_blank" rel="noopener">LinkedIn</a>
+  <a href="https://scholar.google.com/citations?user=YOUR_ID" class="btn-link" target="_blank" rel="noopener">Google Scholar</a>
+  <a href="https://github.com/your-username" class="btn-link" target="_blank" rel="noopener">GitHub</a>
+  <a href="mailto:you@example.com" class="btn-link">Email</a>
+</div>
 
 ---
 # Photos in the field!
